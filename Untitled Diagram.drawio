@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-07-06T22:13:15.152Z" agent="5.0 (Windows)" etag="tHiTHD0BAQeg7Nz0fJvs" version="13.3.9" type="github"><diagram id="8F7xOrCsGX5Gi9iDF8iu" name="Page-1">1VhdU+IwFP01ndl9WKZN+sWjIOqDuo7OuOqLE9rYZkkbJk2h+Os3oSmltLK4wqIMA7knN2ly7r0nbQ04TIpzjqbxFQsxNYAZFgY8NQCwbAAM9TXDRYn4JiyBiJNQO9XAHXnFGjQ1mpMQZw1HwRgVZNoEA5amOBANDHHO5k23F0abV52iCLeAuwDRNvqLhCLWuwBejV9gEsXVlS23X/YkqHLWO8liFLL5GgRHBhxyxkTZSoohpoq8ipdy3NkbvauFcZyKXQY8ZcHTi3OVjs6fXh9onkzc65MfepYZorne8MlrzrGEhmz59+0iH3/XGxCLihXO8jTEamLLgIN5TAS+m6JA9c5lHkgsFgnV3TPMBZGMnlASpRITTDnoC8s+XLy5I2vFk0wwzBIs+EK6VANcTe2imTPzOlBOX2PxWpBsW4NIJ0e0mrrmTzY0he+gE7bovEXBJFtSA8zLn9fyF25h0zwmm1aTTQe06bT8DjpXYdg7nfYOdDqflE4XbNBpOW06u7LTcp0D0Wl5La5wKNVOm4yLmEUsRXRUo4Mmm7XPJVNMLTn8jYVYaOlGuWBNhiVffPGgxvecynxcmr5f2aeFnr+0FuvWDeZE7h9zDZZ7UAvfHhm5T5bzAG8jRNeiQDzCYpuj2x1rjikSZNZcyf7j1pYVA7hULngQkplsRqqpSqM6BVXulQ5jXvVXiFzC2qiOic4pGyP6lvtmAlEqj2KVKPJ8myowoCwP/154eygx2HeaJeZ2KZbTLjH/UIJltRXr/kap1C3LVQZ/6Bzdh8bbG6Lkgl6HLIEOWTqYyPtHFiXTa6qS/S+ihAsiHqq5Zfux1jtp1TMpo5pon0Jm7ypk8KhC5nzu8nCdDUHxOgTlvxZHdU92tOrwvY1D2/lIeZhHKg/na5SH2yqPUTHlOMuqEmklQ3X7eonGmN6wjAjC1G3smAnBkl1udZG2AsmqitcgE5xN8JBRpqKXslSl1AuhtIIMAE1zMDoDa4d+UkTq+b+H1NNjD5erfubLNcPBlBE1+Wgmr5Htr1zt+vTSBQs7CtbpqFd4sHr1WyGUD9ASuL+Wifc5H6OhDRskdnAIPK9N4spx/yz2Wyx+kcyfES5yRJ9TLOaMTw6X+9DvN4Lm75b4wOs55vrHfncIpVm/tFr2rb36g6M/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-06T22:15:22.955Z" agent="5.0 (Windows)" etag="5VwE1DIFkJve8YCwKdSy" version="13.3.9" type="github">
+  <diagram id="8F7xOrCsGX5Gi9iDF8iu" name="Page-1">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-1" value="Azure Core (Hub)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="160" y="10" width="590" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-3" value="Rackspace LON 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="110" y="520" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-4" value="Rackspace LON 5" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="620" y="515" width="190" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZscZf5MnEGZzXlumk6NA-13" target="ZscZf5MnEGZzXlumk6NA-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-13" value="&lt;div&gt;Rackconnect &lt;br&gt;&lt;/div&gt;&lt;div&gt;Global&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="560" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-14" value="VPN Router" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="562.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZscZf5MnEGZzXlumk6NA-14" target="ZscZf5MnEGZzXlumk6NA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-15" value="VPN Router" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZscZf5MnEGZzXlumk6NA-15" target="ZscZf5MnEGZzXlumk6NA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-16" value="Express Route" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.express_route;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="462.5" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-18" value="Hub VNet" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="343" y="70" width="277" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZscZf5MnEGZzXlumk6NA-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="389" y="80" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
